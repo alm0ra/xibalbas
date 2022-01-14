@@ -4,7 +4,6 @@
 
 <a href="mailto:ali.mrd318@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ali-moradi-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xibalbas&show_icons=true&locale=en&include_all_commits=true" alt="coci">
 
 TRX : TYA63GThAokpGAi3bX9BMzzt1YfAsDTeqW
 
@@ -15,7 +14,7 @@ TRX : TYA63GThAokpGAi3bX9BMzzt1YfAsDTeqW
 ![Ali's github activity graph](https://activity-graph.herokuapp.com/graph?username=xibalbas&theme=dracula)
 
 ### I'm Currently Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xibalbas&repo=paper_trading_view)](https://github.com/xibalbas/paper_trading_view)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xibalbas&repo=paper_trading_view&theme=dracula)](https://github.com/xibalbas/paper_trading_view)
 
 <!--
 <hr>
