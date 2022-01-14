@@ -8,6 +8,12 @@
 
 TRX : TYA63GThAokpGAi3bX9BMzzt1YfAsDTeqW
 
+![Ali Moradi Github Stats](https://github-readme-stats.vercel.app/api?username=xibalbas&show_icons=true&include_all_commits=true&theme=radical)
+
+![Ali Moradi Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xibalbas&layout=compact&theme=radical)
+
+![Ali's github activity graph](https://activity-graph.herokuapp.com/graph?username=xibalbas&theme=dracula)
+
 ### I'm Currently Working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xibalbas&repo=paper_trading_view)](https://github.com/xibalbas/paper_trading_view)
 
