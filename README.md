@@ -2,6 +2,8 @@
 ![Visits Badge](https://badges.pufler.dev/visits/xibalbas/xibalbas)
 ![Years Badge](https://badges.pufler.dev/years/xibalbas)
 
+<a href="mailto:ali.mrd318@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ali-moradi-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xibalbas&show_icons=true&locale=en&include_all_commits=true" alt="coci">
 
 TRX : TYA63GThAokpGAi3bX9BMzzt1YfAsDTeqW
