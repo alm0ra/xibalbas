@@ -12,7 +12,7 @@ TRX : TYA63GThAokpGAi3bX9BMzzt1YfAsDTeqW
 ![Ali's github activity graph](https://activity-graph.herokuapp.com/graph?username=xibalbas&theme=dracula)
 
 ### I'm Currently Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xibalbas&repo=paper_trading_view&theme=dracula)](https://github.com/xibalbas/paper_trading_view)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xibalbas&repo=Finasis&theme=dracula)](https://github.com/xibalbas/Finasis)
 
 <!--
 <hr>
